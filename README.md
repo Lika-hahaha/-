@@ -11,6 +11,10 @@
 - 通过多种图表（折线图、热力图等）可视化疫情趋势和严重程度
 - 探索不同年份中各国疫情态势的变化
 
+## 数据来源
+- https://coronavirus.jhu.edu/
+- https://github.com/CSSEGISandData/COVID-19
+
 ##  使用的数据维度
 
 - `Confirmed`: 累计确诊数
